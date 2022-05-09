@@ -19,13 +19,14 @@
 ** tranformation was done with "db4" Daubechies wavelet
 
 
-<img src=""/>
+<img src="sample%20results%20for%20db4/output_1_img1.png"/>
+
 <td>
   <tr>
-    <img src=""/>
+    <img src="sample%20results%20for%20db4/output_1_img2.png"/>
   </tr>
    <tr>
-    <img src=""/>
+    <img src="sample%20results%20for%20db4/output_1_img3.png"/>
   </tr>
  </td>
   
