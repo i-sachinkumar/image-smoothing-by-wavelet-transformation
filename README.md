@@ -18,17 +18,20 @@
 <br>
 ** tranformation was done with "db4" Daubechies wavelet
 
-
+<h1> Original image (img1) </h1>
 <img src="sample%20results%20for%20db4/output_1_img1.png"/>
 
-<td>
-  <tr>
-    <img src="sample%20results%20for%20db4/output_1_img2.png"/>
-  </tr>
-   <tr>
-    <img src="sample%20results%20for%20db4/output_1_img3.png"/>
-  </tr>
- </td>
+<br>
+
+<h1> Added gaussian noise (img2) </h1>
+<image src="sample%20results%20for%20db4/output_1_img2.png"></image>
+
+<br>
+
+<h1> Image reconstruction with wavelet transformation (img3) </h1>
+<image src="sample%20results%20for%20db4/output_1_img3.png"></image>
+
+
   
 #### Interpretation:
 ** img2 will look very noisy, guassian noiseis added, <br>
