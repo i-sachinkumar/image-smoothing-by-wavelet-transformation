@@ -34,5 +34,5 @@
 
   
 #### Interpretation:
-** img2 will look very noisy, guassian noiseis added, <br>
+** img2 will look very noisy, guassian noise is added, <br>
 ** but img3 will look somewhat like img1(original image), less noisy. because it is denoised by wavelet transformation
